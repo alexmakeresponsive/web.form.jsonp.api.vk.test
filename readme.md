@@ -8,6 +8,6 @@ Use you vk account for authorization on resource
 
 Try demo: [link](http://blazingwater.amrxt.ru)
 
-Type `7227371` to client_id field and click to 'Login' button.
+Type `7364885` to client_id field and click to 'Login' button.
 
 
